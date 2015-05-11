@@ -1,0 +1,201 @@
+2015-03-30 15:06:15.604 HelloWorld[968:17652] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/97EBE2B0-F418-44B1-A695-ECF40C7D9EA9/Library/Cookies/Cookies.binarycookies
+2015-03-30 15:06:15.715 HelloWorld[968:17652] Multi-tasking -> Device: YES, App: YES
+2015-03-30 15:06:16.333 HelloWorld[968:17652] Resetting plugins due to page load.
+2015-03-30 15:06:16.463 HelloWorld[968:17652] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/2DC3EBA1-9CEB-4F3E-9B90-B876E0907FCA/HelloWorld.app/www/index.html
+2015-04-28 20:09:33.948 HelloWorld[874:6596] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/0A1C63F2-EFC1-4D2E-95FE-D3A324DB48DB/Library/Cookies/Cookies.binarycookies
+2015-04-28 20:09:34.062 HelloWorld[874:6596] Multi-tasking -> Device: YES, App: YES
+2015-04-28 20:09:34.683 HelloWorld[874:6596] Resetting plugins due to page load.
+2015-04-28 20:09:34.819 HelloWorld[874:6596] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/39FE82C8-4386-4264-8F19-1100E31215E7/HelloWorld.app/www/index.html
+2015-04-28 20:50:07.323 HelloWorld[1838:22600] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/D16C08F9-A436-4D12-B496-5B38E589E4DB/Library/Cookies/Cookies.binarycookies
+2015-04-28 20:50:07.431 HelloWorld[1838:22600] Multi-tasking -> Device: YES, App: YES
+2015-04-28 20:50:08.148 HelloWorld[1838:22600] Resetting plugins due to page load.
+2015-04-28 20:50:08.191 HelloWorld[1838:22630] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css'
+2015-04-28 20:50:08.192 HelloWorld[1838:22630] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css'
+2015-04-28 20:50:08.195 HelloWorld[1838:22630] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js'
+2015-04-28 20:50:08.198 HelloWorld[1838:22630] ERROR whitelist rejection: url='https://code.jquery.com/jquery-1.11.2.min.js'
+2015-04-28 20:50:08.252 HelloWorld[1838:22600] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/651EEC2B-AFE0-4B65-84A2-859758D60FF8/HelloWorld.app/www/index.html
+2015-04-28 21:03:05.800 HelloWorld[2360:30334] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/73C8146E-8F7A-4E46-A077-C45BD073F5CC/Library/Cookies/Cookies.binarycookies
+2015-04-28 21:03:05.913 HelloWorld[2360:30334] Multi-tasking -> Device: YES, App: YES
+2015-04-28 21:03:06.244 HelloWorld[2360:30334] Resetting plugins due to page load.
+2015-04-28 21:03:06.285 HelloWorld[2360:30365] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css'
+2015-04-28 21:03:06.286 HelloWorld[2360:30365] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css'
+2015-04-28 21:03:06.287 HelloWorld[2360:30365] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js'
+2015-04-28 21:03:06.507 HelloWorld[2360:30334] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/1E9B0E4E-AE09-40C5-8A33-5E0E0C21EBAD/HelloWorld.app/www/index.html
+2015-04-28 21:13:39.905 HelloWorld[2943:36131] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/91DD783E-0F12-4774-89DC-DC4DE399BD91/Library/Cookies/Cookies.binarycookies
+2015-04-28 21:13:40.014 HelloWorld[2943:36131] Multi-tasking -> Device: YES, App: YES
+2015-04-28 21:13:40.624 HelloWorld[2943:36131] Resetting plugins due to page load.
+2015-04-28 21:13:40.670 HelloWorld[2943:36163] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css'
+2015-04-28 21:13:40.671 HelloWorld[2943:36163] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css'
+2015-04-28 21:13:40.672 HelloWorld[2943:36163] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js'
+2015-04-28 21:13:40.803 HelloWorld[2943:36131] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/3CF4116E-7B18-4A77-A4C2-EA02C9A64AFB/HelloWorld.app/www/index.html
+2015-04-28 21:18:13.292 HelloWorld[3264:38604] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/1B82AF52-15FC-4B75-994B-ED41C911A8F9/Library/Cookies/Cookies.binarycookies
+2015-04-28 21:18:13.382 HelloWorld[3264:38604] Multi-tasking -> Device: YES, App: YES
+2015-04-28 21:18:13.948 HelloWorld[3264:38604] Resetting plugins due to page load.
+2015-04-28 21:18:14.107 HelloWorld[3264:38604] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/11850F72-58ED-430F-B310-A9C9AE4774E3/HelloWorld.app/www/index.html
+2015-04-28 21:22:00.126 HelloWorld[3579:40609] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/603A75F1-32D5-4D34-87F1-8A7126E6D20F/Library/Cookies/Cookies.binarycookies
+2015-04-28 21:22:00.219 HelloWorld[3579:40609] Multi-tasking -> Device: YES, App: YES
+2015-04-28 21:22:00.484 HelloWorld[3579:40609] Resetting plugins due to page load.
+2015-04-28 21:22:01.251 HelloWorld[3579:40609] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/CC0155F1-EEBE-4886-97AA-9E51D545F31A/HelloWorld.app/www/index.html
+2015-04-28 22:03:04.971 HelloWorld[4905:58672] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/9DBE0A44-3026-4AFD-8EFE-E5030183F4F3/Library/Cookies/Cookies.binarycookies
+2015-04-28 22:03:05.059 HelloWorld[4905:58672] Multi-tasking -> Device: YES, App: YES
+2015-04-28 22:03:05.386 HelloWorld[4905:58672] Resetting plugins due to page load.
+2015-04-28 22:03:05.573 HelloWorld[4905:58710] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.woff'
+2015-04-28 22:03:05.577 HelloWorld[4905:58672] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/183D05F4-1750-453B-B6AC-56115F0799A0/HelloWorld.app/www/index.html
+2015-04-28 22:03:05.602 HelloWorld[4905:58710] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.ttf'
+2015-04-28 22:03:05.615 HelloWorld[4905:58710] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular'
+2015-04-28 22:39:43.197 HelloWorld[5218:70158] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/95511516-E17B-4618-8521-8449A3938CB2/Library/Cookies/Cookies.binarycookies
+2015-04-28 22:39:43.322 HelloWorld[5218:70158] Multi-tasking -> Device: YES, App: YES
+2015-04-28 22:39:43.796 HelloWorld[5218:70158] Resetting plugins due to page load.
+2015-04-28 22:39:43.960 HelloWorld[5218:70220] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.woff'
+2015-04-28 22:39:43.966 HelloWorld[5218:70158] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/1CEE3938-02F6-49D9-ABD6-CD64CE5E024C/HelloWorld.app/www/index.html
+2015-04-28 22:39:43.978 HelloWorld[5218:70220] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.ttf'
+2015-04-28 22:39:43.988 HelloWorld[5218:70220] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular'
+2015-04-28 22:40:18.639 HelloWorld[5488:71121] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/0A779813-4B8A-4820-93A0-4155C4C645D9/Library/Cookies/Cookies.binarycookies
+2015-04-28 22:40:18.747 HelloWorld[5488:71121] Multi-tasking -> Device: YES, App: YES
+2015-04-28 22:40:19.091 HelloWorld[5488:71121] Resetting plugins due to page load.
+2015-04-28 22:40:19.183 HelloWorld[5488:71145] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.woff'
+2015-04-28 22:40:19.187 HelloWorld[5488:71121] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/EA840475-D47E-4142-B2A4-9FB6E121F7B3/HelloWorld.app/www/index.html
+2015-04-28 22:40:19.199 HelloWorld[5488:71145] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.ttf'
+2015-04-28 22:40:19.210 HelloWorld[5488:71145] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular'
+2015-04-28 22:48:21.323 HelloWorld[5987:76463] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/241CBF3E-80BD-4EEF-9C09-04260B014778/Library/Cookies/Cookies.binarycookies
+2015-04-28 22:48:21.432 HelloWorld[5987:76463] Multi-tasking -> Device: YES, App: YES
+2015-04-28 22:48:21.785 HelloWorld[5987:76463] Resetting plugins due to page load.
+2015-04-28 22:48:21.920 HelloWorld[5987:76494] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.woff'
+2015-04-28 22:48:21.928 HelloWorld[5987:76463] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/F8546888-BC48-44BA-A20D-E35796DE1AB9/HelloWorld.app/www/index.html
+2015-04-28 22:48:21.935 HelloWorld[5987:76494] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.ttf'
+2015-04-28 22:48:21.958 HelloWorld[5987:76494] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular'
+2015-04-28 22:51:15.555 HelloWorld[6300:78290] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/CFA8CD31-9784-433D-96CB-4765435228BB/Library/Cookies/Cookies.binarycookies
+2015-04-28 22:51:15.635 HelloWorld[6300:78290] Multi-tasking -> Device: YES, App: YES
+2015-04-28 22:51:15.929 HelloWorld[6300:78290] Resetting plugins due to page load.
+2015-04-28 22:51:16.026 HelloWorld[6300:78321] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.woff'
+2015-04-28 22:51:16.036 HelloWorld[6300:78290] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/4EAEE640-170E-4FB2-A634-CFB42911DAA9/HelloWorld.app/www/index.html
+2015-04-28 22:51:16.054 HelloWorld[6300:78321] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.ttf'
+2015-04-28 22:51:16.064 HelloWorld[6300:78321] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular'
+2015-04-28 22:57:38.128 HelloWorld[6620:81551] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/EEA236B6-EF36-4B65-AEED-A08895949460/Library/Cookies/Cookies.binarycookies
+2015-04-28 22:57:38.219 HelloWorld[6620:81551] Multi-tasking -> Device: YES, App: YES
+2015-04-28 22:57:38.548 HelloWorld[6620:81551] Resetting plugins due to page load.
+2015-04-28 22:57:38.665 HelloWorld[6620:81582] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.woff'
+2015-04-28 22:57:38.670 HelloWorld[6620:81551] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/CBA3E55D-1617-46A8-B562-B994C004638B/HelloWorld.app/www/index.html
+2015-04-28 22:57:38.689 HelloWorld[6620:81582] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.ttf'
+2015-04-28 22:57:38.701 HelloWorld[6620:81582] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular'
+2015-04-28 22:59:45.241 HelloWorld[6973:84455] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/30C6AECD-5998-49E1-9A75-C53CC79B100B/Library/Cookies/Cookies.binarycookies
+2015-04-28 22:59:45.350 HelloWorld[6973:84455] Multi-tasking -> Device: YES, App: YES
+2015-04-28 22:59:45.705 HelloWorld[6973:84455] Resetting plugins due to page load.
+2015-04-28 22:59:45.821 HelloWorld[6973:84486] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.woff'
+2015-04-28 22:59:45.847 HelloWorld[6973:84455] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/EBBC6E85-C039-40F7-AB36-BCFA47D455B7/HelloWorld.app/www/index.html
+2015-04-28 22:59:45.867 HelloWorld[6973:84486] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.ttf'
+2015-04-28 22:59:45.875 HelloWorld[6973:84486] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular'
+2015-04-28 23:00:32.690 HelloWorld[7284:85798] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/4D8E8436-3F1C-4499-87B8-101B689C92A3/Library/Cookies/Cookies.binarycookies
+2015-04-28 23:00:32.807 HelloWorld[7284:85798] Multi-tasking -> Device: YES, App: YES
+2015-04-28 23:00:33.146 HelloWorld[7284:85798] Resetting plugins due to page load.
+2015-04-28 23:00:33.228 HelloWorld[7284:85834] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.woff'
+2015-04-28 23:00:33.238 HelloWorld[7284:85798] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/D523BC74-02B3-4EF6-A976-B67DC17CAE31/HelloWorld.app/www/index.html
+2015-04-28 23:00:33.255 HelloWorld[7284:85834] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.ttf'
+2015-04-28 23:00:33.262 HelloWorld[7284:85834] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular'
+2015-04-28 23:02:38.728 HelloWorld[7746:88325] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/9F9E93BF-7BE2-42D3-A820-6F1CFAA78F41/Library/Cookies/Cookies.binarycookies
+2015-04-28 23:02:38.827 HelloWorld[7746:88325] Multi-tasking -> Device: YES, App: YES
+2015-04-28 23:02:39.109 HelloWorld[7746:88325] Resetting plugins due to page load.
+2015-04-28 23:02:39.195 HelloWorld[7746:88354] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.woff'
+2015-04-28 23:02:39.209 HelloWorld[7746:88325] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/BAEE8DD8-3F73-44D9-8446-29EFC96AB13A/HelloWorld.app/www/index.html
+2015-04-28 23:02:39.227 HelloWorld[7746:88354] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.ttf'
+2015-04-28 23:02:39.232 HelloWorld[7746:88354] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular'
+2015-04-28 23:08:58.786 HelloWorld[8074:94283] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/DE42072E-B838-4B8B-9CB0-E4C80F11FB32/Library/Cookies/Cookies.binarycookies
+2015-04-28 23:08:58.893 HelloWorld[8074:94283] Multi-tasking -> Device: YES, App: YES
+2015-04-28 23:08:59.205 HelloWorld[8074:94283] Resetting plugins due to page load.
+2015-04-28 23:08:59.293 HelloWorld[8074:94299] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.woff'
+2015-04-28 23:08:59.305 HelloWorld[8074:94283] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/F7C45F5E-B6FC-441E-8442-2BB47906A416/HelloWorld.app/www/index.html
+2015-04-28 23:08:59.323 HelloWorld[8074:94299] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.ttf'
+2015-04-28 23:08:59.330 HelloWorld[8074:94299] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular'
+2015-04-28 23:10:59.672 HelloWorld[8346:95986] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/E80906C3-8152-4A33-8991-04B1830A207F/Library/Cookies/Cookies.binarycookies
+2015-04-28 23:10:59.763 HelloWorld[8346:95986] Multi-tasking -> Device: YES, App: YES
+2015-04-28 23:11:00.207 HelloWorld[8346:95986] Resetting plugins due to page load.
+2015-04-28 23:11:00.306 HelloWorld[8346:96002] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.woff'
+2015-04-28 23:11:00.311 HelloWorld[8346:95986] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/E6902875-ECF2-4F90-BF7E-FF2F192560BC/HelloWorld.app/www/index.html
+2015-04-28 23:11:00.323 HelloWorld[8346:96002] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.ttf'
+2015-04-28 23:11:00.337 HelloWorld[8346:96002] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular'
+2015-04-28 23:12:34.700 HelloWorld[8615:97298] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/49308E47-6EF1-4CB3-845F-D81A47FC521C/Library/Cookies/Cookies.binarycookies
+2015-04-28 23:12:34.791 HelloWorld[8615:97298] Multi-tasking -> Device: YES, App: YES
+2015-04-28 23:12:35.116 HelloWorld[8615:97298] Resetting plugins due to page load.
+2015-04-28 23:12:35.201 HelloWorld[8615:97313] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.woff'
+2015-04-28 23:12:35.211 HelloWorld[8615:97298] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/869B468A-3648-4085-A8F8-0CB64D939569/HelloWorld.app/www/index.html
+2015-04-28 23:12:35.229 HelloWorld[8615:97313] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.ttf'
+2015-04-28 23:12:35.236 HelloWorld[8615:97313] ERROR whitelist rejection: url='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular'
+2015-04-28 23:17:51.219 HelloWorld[8936:100740] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/37258D79-011E-4A30-A1AB-E2E49C92B205/Library/Cookies/Cookies.binarycookies
+2015-04-28 23:17:51.313 HelloWorld[8936:100740] Multi-tasking -> Device: YES, App: YES
+2015-04-28 23:17:51.668 HelloWorld[8936:100740] Resetting plugins due to page load.
+2015-04-28 23:17:51.770 HelloWorld[8936:100740] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/DB58E778-051D-4573-99AA-AF41BDCD3F28/HelloWorld.app/www/index.html
+2015-04-28 23:50:46.246 HelloWorld[9265:115925] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/4C2D4F02-CE8F-470B-B28E-B86614579204/Library/Cookies/Cookies.binarycookies
+2015-04-28 23:50:46.336 HelloWorld[9265:115925] Multi-tasking -> Device: YES, App: YES
+2015-04-28 23:50:46.697 HelloWorld[9265:115925] Resetting plugins due to page load.
+2015-04-28 23:50:46.804 HelloWorld[9265:115925] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/00E60861-D3E0-4D7C-862F-4907BF469642/HelloWorld.app/www/index.html
+2015-04-28 23:51:38.853 HelloWorld[9563:116832] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/D2A56A70-24F1-4C6F-A688-1759F6D373BF/Library/Cookies/Cookies.binarycookies
+2015-04-28 23:51:38.971 HelloWorld[9563:116832] Multi-tasking -> Device: YES, App: YES
+2015-04-28 23:51:39.341 HelloWorld[9563:116832] Resetting plugins due to page load.
+2015-04-28 23:51:39.467 HelloWorld[9563:116832] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/30A7C24F-6EB0-437A-808B-480593690811/HelloWorld.app/www/index.html
+2015-04-28 23:53:04.500 HelloWorld[9860:117878] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/B54C4DEC-C274-4D38-84F5-3AEA1F8C6757/Library/Cookies/Cookies.binarycookies
+2015-04-28 23:53:04.595 HelloWorld[9860:117878] Multi-tasking -> Device: YES, App: YES
+2015-04-28 23:53:04.978 HelloWorld[9860:117878] Resetting plugins due to page load.
+2015-04-28 23:53:05.078 HelloWorld[9860:117878] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/2EBE2222-1365-4A54-8FFF-ECCB34E890E2/HelloWorld.app/www/index.html
+2015-04-29 00:13:48.296 HelloWorld[10442:127339] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/91CCB227-2EB4-4AF6-95B6-1FE7BC7C346A/Library/Cookies/Cookies.binarycookies
+2015-04-29 00:13:48.403 HelloWorld[10442:127339] Multi-tasking -> Device: YES, App: YES
+2015-04-29 00:13:48.714 HelloWorld[10442:127339] Resetting plugins due to page load.
+2015-04-29 00:13:48.853 HelloWorld[10442:127339] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/8E89EA02-DE4D-4978-9803-F5298B9EC47D/HelloWorld.app/www/index.html
+2015-04-29 00:43:43.686 HelloWorld[10830:146835] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/FB29D5E2-40C9-43B0-9361-062607F177C2/Library/Cookies/Cookies.binarycookies
+2015-04-29 00:43:43.762 HelloWorld[10830:146835] Multi-tasking -> Device: YES, App: YES
+2015-04-29 00:43:44.034 HelloWorld[10830:146835] Resetting plugins due to page load.
+2015-04-29 00:43:44.149 HelloWorld[10830:146835] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/AC72A753-C868-48F5-9689-EF9DC991BDAD/HelloWorld.app/www/index.html
+2015-04-29 00:44:28.163 HelloWorld[11134:147735] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/343DE652-8F43-4971-BCA8-E6316161330B/Library/Cookies/Cookies.binarycookies
+2015-04-29 00:44:28.283 HelloWorld[11134:147735] Multi-tasking -> Device: YES, App: YES
+2015-04-29 00:44:28.662 HelloWorld[11134:147735] Resetting plugins due to page load.
+2015-04-29 00:44:28.781 HelloWorld[11134:147735] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/47292118-BF5D-4E4B-8ECE-ADC7E6622959/HelloWorld.app/www/index.html
+2015-04-29 01:03:04.440 HelloWorld[11440:153031] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/5828D17D-D3A7-4C67-88BC-517CDB0DAB28/Library/Cookies/Cookies.binarycookies
+2015-04-29 01:03:04.553 HelloWorld[11440:153031] Multi-tasking -> Device: YES, App: YES
+2015-04-29 01:03:04.895 HelloWorld[11440:153031] Resetting plugins due to page load.
+2015-04-29 01:03:04.988 HelloWorld[11440:153031] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/6AAF9202-BCA3-4173-94BD-E11B88661B60/HelloWorld.app/www/index.html
+2015-04-29 01:51:36.167 HelloWorld[11440:165643] Terminating since there is no system app.
+2015-04-30 11:39:16.646 HelloWorld[11994:177619] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/EE02A4DE-0FC1-4BBF-BDDE-04347B1C27B6/Library/Cookies/Cookies.binarycookies
+2015-04-30 11:39:16.752 HelloWorld[11994:177619] Multi-tasking -> Device: YES, App: YES
+2015-04-30 11:39:17.373 HelloWorld[11994:177619] Resetting plugins due to page load.
+2015-04-30 11:39:17.513 HelloWorld[11994:177619] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/76844549-5195-4388-AFA5-48E249469696/HelloWorld.app/www/index.html
+2015-04-30 11:59:56.327 HelloWorld[12346:189138] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/6C4A5FBA-06F4-4B7D-89CB-5EC14A01035A/Library/Cookies/Cookies.binarycookies
+2015-04-30 11:59:56.420 HelloWorld[12346:189138] Multi-tasking -> Device: YES, App: YES
+2015-04-30 11:59:56.716 HelloWorld[12346:189138] Resetting plugins due to page load.
+2015-04-30 11:59:56.812 HelloWorld[12346:189138] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/4165B1D7-92E8-4844-BB5A-F05DAC8D6872/HelloWorld.app/www/index.html
+2015-04-30 12:05:54.587 HelloWorld[12668:194211] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/835ACED8-06D3-40CC-A370-6C9643A096AC/Library/Cookies/Cookies.binarycookies
+2015-04-30 12:05:54.688 HelloWorld[12668:194211] Multi-tasking -> Device: YES, App: YES
+2015-04-30 12:05:54.986 HelloWorld[12668:194211] Resetting plugins due to page load.
+2015-04-30 12:05:55.071 HelloWorld[12668:194211] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/910DF0B4-268B-4014-A421-48AFD6C132CD/HelloWorld.app/www/index.html
+2015-04-30 12:09:58.713 HelloWorld[12967:196854] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/E3F43173-A9D1-4723-8CAF-87413FB1C287/Library/Cookies/Cookies.binarycookies
+2015-04-30 12:09:58.823 HelloWorld[12967:196854] Multi-tasking -> Device: YES, App: YES
+2015-04-30 12:09:59.116 HelloWorld[12967:196854] Resetting plugins due to page load.
+2015-04-30 12:09:59.209 HelloWorld[12967:196854] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/442FB712-D1FF-4488-B63E-834BC3E7B135/HelloWorld.app/www/index.html
+2015-05-07 17:01:53.888 HelloWorld[2249:151708] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/5F0D923C-0CFD-4F6D-A1B5-85FBFD3A453A/Library/Cookies/Cookies.binarycookies
+2015-05-07 17:01:53.994 HelloWorld[2249:151708] Multi-tasking -> Device: YES, App: YES
+2015-05-07 17:01:54.761 HelloWorld[2249:151708] Resetting plugins due to page load.
+2015-05-07 17:01:54.815 HelloWorld[2249:151744] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=geometry'
+2015-05-07 17:01:54.827 HelloWorld[2249:151735] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=geometry'
+2015-05-07 17:01:55.000 HelloWorld[2249:151708] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/91202ABA-545A-46E7-A6EA-BCA3821258E2/HelloWorld.app/www/index.html
+2015-05-07 17:03:05.881 HelloWorld[2597:153069] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/0DC3AF37-06A2-4D03-BA68-0A7A6DBCA3E0/Library/Cookies/Cookies.binarycookies
+2015-05-07 17:03:05.991 HelloWorld[2597:153069] Multi-tasking -> Device: YES, App: YES
+2015-05-07 17:03:06.340 HelloWorld[2597:153069] Resetting plugins due to page load.
+2015-05-07 17:03:06.374 HelloWorld[2597:153092] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=geometry'
+2015-05-07 17:03:06.379 HelloWorld[2597:153087] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=geometry'
+2015-05-07 17:03:06.454 HelloWorld[2597:153069] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/04D83A25-C611-432F-A3B0-862C8A12A1D9/HelloWorld.app/www/index.html
+2015-05-07 17:04:43.859 HelloWorld[2944:154557] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/838C80C9-D5B1-444E-B54D-4892EA983287/Library/Cookies/Cookies.binarycookies
+2015-05-07 17:04:43.970 HelloWorld[2944:154557] Multi-tasking -> Device: YES, App: YES
+2015-05-07 17:04:44.351 HelloWorld[2944:154557] Resetting plugins due to page load.
+2015-05-07 17:04:44.392 HelloWorld[2944:154579] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=geometry'
+2015-05-07 17:04:44.397 HelloWorld[2944:154576] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=geometry'
+2015-05-07 17:04:44.482 HelloWorld[2944:154557] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/3503E203-D91C-480B-8FF5-27258439E5A3/HelloWorld.app/www/index.html
+2015-05-07 17:08:45.606 HelloWorld[3718:158498] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/DC51D786-6A8F-48E8-969D-3524FFF8AE52/Library/Cookies/Cookies.binarycookies
+2015-05-07 17:08:45.713 HelloWorld[3718:158498] Multi-tasking -> Device: YES, App: YES
+2015-05-07 17:08:46.034 HelloWorld[3718:158498] Resetting plugins due to page load.
+2015-05-07 17:08:46.072 HelloWorld[3718:158521] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=geometry'
+2015-05-07 17:08:46.079 HelloWorld[3718:158514] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=geometry'
+2015-05-07 17:08:46.185 HelloWorld[3718:158498] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/A8487BF1-0E97-4A98-A9E7-A9DD8C0B03A7/HelloWorld.app/www/index.html
+2015-05-07 17:09:31.342 HelloWorld[4223:160253] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Data/Application/83AAD034-238C-49AA-8060-9A0955CA570E/Library/Cookies/Cookies.binarycookies
+2015-05-07 17:09:31.454 HelloWorld[4223:160253] Multi-tasking -> Device: YES, App: YES
+2015-05-07 17:09:31.753 HelloWorld[4223:160253] Resetting plugins due to page load.
+2015-05-07 17:09:31.784 HelloWorld[4223:160286] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=geometry'
+2015-05-07 17:09:31.788 HelloWorld[4223:160280] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=geometry'
+2015-05-07 17:09:31.856 HelloWorld[4223:160253] Finished load of: file:///Users/luizbraga/Library/Developer/CoreSimulator/Devices/CDBEB798-ECDA-410A-A608-4FC6DA59692E/data/Containers/Bundle/Application/E50E9BCE-E210-48C8-95AF-7CD1DB72DB4F/HelloWorld.app/www/index.html

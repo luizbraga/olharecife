@@ -1,0 +1,129 @@
+/*
+* Mapa
+*/
+
+#map-canvas {
+    height:100vh;
+}
+
+/*
+* Header
+*/
+
+.header-bar {
+    background-color: #428bca;
+    -webkit-box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
+    box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
+    width: 100%;
+}
+
+#roteiro {
+    background-color: yellow;
+    width: 100%;
+    height: 20px;
+}
+
+/*
+* Button
+*/
+
+#roteiro-type {
+    position:absolute;
+    bottom: 5%;
+    right:5%;
+}
+
+.btn {
+    background-image: none;
+    border-width: 0;
+}
+
+.btn-circle {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    padding: 6px 0;
+    font-size: 12px;
+    line-height: 1.428571429;
+    border-radius: 50%; 
+}
+
+.btn-group-vertical > button{
+    margin-bottom:10px;
+    border-radius:10px !important;
+}
+
+
+/*
+* Navigation
+*/
+.navbar {
+    margin-bottom: 0;   
+}
+
+.navbar .navbar-form {
+    padding: 0;
+    margin-right: 0;
+    margin-left: 0;
+    border: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+@media(max-width:767px) {
+    .navbar .navbar-form {
+        width: 185px;
+        padding-left:15px;
+        padding-right:0;
+    }
+}
+
+.nav>li>a {
+    color: white;
+    padding: 13px;
+    line-height: 33px;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: white;
+}
+
+
+/*
+* Barra de busca
+*/
+.box {
+    position: relative;
+    width: 220px;
+    margin-top: 10px;
+}
+.search {
+    width: 200px;
+    height: 24px;
+    max-width:0;
+    padding: 4px;
+    transition: all .5s ease;
+    position:absolute;
+    right:20px;
+    opacity:0;
+    margin-right:13px;
+    margin-top:3px;
+    font-size: 12px;
+}
+.search.expanded {
+    max-width:200px;
+    opacity:1;
+}
+#icon {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: 0;
+    padding-top: 7px;
+    margin-right: 5px;
+}
+
+.glyphicon-search {
+    color: white;   
+    font-size: 17px;
+}

@@ -1,0 +1,38 @@
+{
+	"roteiro":[
+	
+	{	
+		"tipo":"pe",
+		"nome":"Bairro do Recife",
+		"locais":["Praça do Marco Zero", "Rua do Bom Jesus", "Praça do Arsenal", "Rua do Apolo", "Cais da Alfândega", "Rua Madre de Deus","Rua da Moeda"],
+		"coordenadas":[[-8.063145, -34.871081],[-8.062168, -34.871415],[-8.061115, -34.871230],
+		[-8.061513, -34.872341], [-8.065223, -34.873998], [-8.065128, -34.873446], [-8.064642, -34.873119] ]
+		},{
+		
+		"tipo":"pe",
+		"nome":"Recife Barroco",
+		"locais":["Madre de Deus", "Capela Dourada", "Matriz de Santo Antônio", "Basílica do Carmo", "Pátio de São Pedro", "Encerramento no Pátio do Livramento"],
+		"coordenadas":[[-8.064229, -34.873653],[-8.062487, -34.877085],[-8.064308, -34.878791],[-8.066019, -34.879798],[-8.066969, -34.878939],[-8.066929, -34.877988]]
+		
+		},{
+		
+		"tipo":"pe",
+		"nome":"Caminhos do Frei",
+		"locais":["Casa da Cultura", "rua Frei Caneca", "Pátio do Carmo", "Pátio do Terço","muro do espingardeamento do Frei"],
+		"coordenadas":[[-8.066139, -34.883245], [-8.064925, -34.881001],[-8.065989, -34.879479],[-8.069173, -34.880500],[-8.071828, -34.881504]]
+		
+		
+		},{
+		
+		"tipo":"pe",
+		"nome":"Circuitos das Praças",
+		"locais":["Praça do Marco Zero","Praça da República","Praça 17", "Pracinha do Diário"],
+		"coordenadas":[[-8.063101, -34.871155],[-8.060949, -34.877310],[-8.065319, -34.876486],[-8.064242, -34.878052]]
+		
+		
+		}
+		
+		
+	]
+
+}

@@ -33,6 +33,10 @@
     right:5%;
 }
 
+#roteiro-type div {
+    padding-top:10%;   
+}
+
 .btn {
     background-image: none;
     border-width: 0;

@@ -17,12 +17,18 @@
         <!-- Latest compiled and minified JavaScript -->
         <script src="js/lib/bootstrap.min.js"></script>
         
-        <script src="js/lib/typeahead.js"></script>
-        
-        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=geometry"></script>
+        <!-- Google Maps -->
+        <script src="https://maps.googleapis.com/maps/api/js??key=AIzaSyD-7dBiosYwM3VvLVhiiZIB4fmH2w57lks&sensor=false&libraries=geometry"></script>
+
+        <!-- jQueryUI -->
+        <script src="js/lib/jquery-ui/jquery-ui.js"></script>
+        <link rel="stylesheet" href="js/lib/jquery-ui/jquery-ui.structure.min.css">
+        <link rel="stylesheet" href="js/lib/jquery-ui/jquery-ui.theme.min.css">
+
+        <!-- Project files -->
         <link rel="stylesheet" type="text/css" href="css/olharecife.css">
         <script src="js/main.js"></script>
-
+        <script src="js/routes.js"></script>
 
         <title>Olha! Recife</title>
     </head>
@@ -38,8 +44,10 @@
                             <span class="icon-bar"></span>
                         </button>
                         <div class="box pull-right">
-                            
-                            <input id="result" type="text" class="search" autocomplete="off" spellcheck="false" dir="auto" placeholder="Procurar...">
+
+                            <div class="ui-widget">
+                              <input id="search-box" class="search" placeholder="Procurar...">
+                            </div>
                             
                             <div id="icon" class="glyphicon glyphicon-search"></div>
                         </div>
@@ -62,10 +70,10 @@
 
         <div id="roteiro-type">
 
-            <div><button id="btn-pe" type="button" class="btn btn-default btn-circle"></button></div>
-            <div><button id="btn-onibus" type="button" class="btn btn-warning btn-circle"></button></div>
-            <div><button id="btn-rio" type="button" class="btn btn-success btn-circle"></button></div>
-            <div><button id="btn-carro" type="button" class="btn btn-default btn-circle"></button></div>
+            <div><button id="btn-pe" type="button" class="btn btn-circle"><img src="img/pessoa-icon.png"></button></div>
+            <div><button id="btn-onibus" type="button" class="btn btn-circle"><img src="img/onibus-icon.png"></button></div>
+            <div><button id="btn-barco" type="button" class="btn btn-circle"><img src="img/barco-icon.png"></button></div>
+            <div><button id="btn-bike" type="button" class="btn btn-circle"><img src="img/bike-icon.png"></button></div>
 
         </div>
 

@@ -9,58 +9,79 @@ $(document).ready(function(){
         $('.search').toggleClass('expanded');
     });
 
-    $('#btn-pe').click(function(){
-        $( "#btn-bike" ).toggle(300);
-        $( "#btn-barco" ).toggle(300);
-        $( "#btn-onibus" ).toggle(300);
-    });
-    $('#btn-bike').click(function(){
-        $( "#btn-pe" ).toggle(300);
-        $( "#btn-barco" ).toggle(300);
-        $( "#btn-onibus" ).toggle(300);
-    });
-    $('#btn-barco').click(function(){
-        $( "#btn-bike" ).toggle(300);
-        $( "#btn-pe" ).toggle(300);
-        $( "#btn-onibus" ).toggle(300);
-    });
-    $('#btn-onibus').click(function(){
-        $( "#btn-bike" ).toggle(300);
-        $( "#btn-barco" ).toggle(300);
-        $( "#btn-pe" ).toggle(300);
+    $('.btn').click(function(){
+
+        $(this).toggleClass("active");
+        // Toggle buttons
+        for (i=0; i<$('.btn').length; i++) {
+            if($('.btn')[i] != this){
+                $('#'+$('.btn')[i].id).toggle(300);
+            }
+        }
+
+        if(this.classList.contains("active")){
+            // Show dialog
+            $("#dialog").dialog({modal: true, 
+                                 height: 200,
+                                 width: 300 
+                                });
+
+            
+            document.getElementById('dialog').innerHTML = '';
+            var list = document.createElement('ul');
+            for (i = 0; i<routes.length; i++){
+                if(routes[i].tipo == this.id){
+
+                    // Create the list item:
+                    var item = document.createElement('li');
+
+                    // Set its contents:
+                    item.appendChild(document.createTextNode(routes[i].nome));
+
+                    // Add it to the list:
+                    list.appendChild(item);
+                }
+            }
+            document.getElementById('dialog').appendChild(list);
+
+        }
+
     });
 
+
     $( "#search-box" ).autocomplete({
-      source: roteirosNomes
+        source: roteirosNomes
     });
 
     document.getElementById("search-box").addEventListener( "keydown", function( e ) {
         var keyCode = e.keyCode || e.which;
         if ( keyCode === 13 ) {
-           // Find the route object from the search
-           var input = document.getElementById('search-box').value;
-           for (key in routes) {
+            // Find the route object from the search
+            var input = document.getElementById('search-box').value;
+            for (key in routes) {
                 if (routes[key].nome == input) {
                     document.getElementById("roteiro").innerHTML = routes[key].nome;
                     setMarkers(routes[key]);
                 } else {
                     console.log("Rota não encontrada");
                 }
-           }
+            }
         }
     }, false);
 
 });
 
 
+
+
 function setMarkers(route) {
     removeAllMarkers();
     for(key in route.places) {
         var marker = new google.maps.Marker({
-              position: new google.maps.LatLng(route.places[key].latitude, route.places[key].longitude),
-              map: map,
-              title: route.places[key].nome
-          });
+            position: new google.maps.LatLng(route.places[key].latitude, route.places[key].longitude),
+            map: map,
+            title: route.places[key].nome
+        });
         markers.push(marker);
     }
 

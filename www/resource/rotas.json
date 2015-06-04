@@ -104,7 +104,7 @@
 	
 		},{
 		
-		"tipo":"rio",
+		"tipo":"barco",
 		"nome":"Rio Capibaribe e Suas Pontes",
 		"locais":["Ponte 12 de Setembro", "Ponte Mauricio de Nassau", "Ponte Manuel Buarque de Macedo", "Ponte Princesa Isabel", "Ponte Duarte Coelho"],
 		"coordenadas":[[-8.067147, -34.873906],[-8.063907, -34.875360],[-8.062053, -34.875097],[-8.059998, -34.879201],[-8.062287, -34.881106]]

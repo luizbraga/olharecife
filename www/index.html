@@ -6,9 +6,10 @@
 
         <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
         <!-- Não permite o zoom -->
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">  
+        
         <script src="js/lib/jquery-2.1.3.min.js"></script>
+        
         
         <!-- Latest compiled and minified CSS -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -24,7 +25,7 @@
         <script src="js/lib/jquery-ui/jquery-ui.js"></script>
         <link rel="stylesheet" href="js/lib/jquery-ui/jquery-ui.structure.min.css">
         <link rel="stylesheet" href="js/lib/jquery-ui/jquery-ui.theme.min.css">
-
+        
         <!-- Project files -->
         <link rel="stylesheet" type="text/css" href="css/olharecife.css">
         <script src="js/main.js"></script>
@@ -67,13 +68,17 @@
         </header>
 
         <div id="map-canvas"></div>
-
+        
+        <div id="dialog" title="Dialog Title">
+            
+        </div>
+            
         <div id="roteiro-type">
 
-            <div><button id="btn-pe" type="button" class="btn btn-circle"><img src="img/pessoa-icon.png"></button></div>
-            <div><button id="btn-onibus" type="button" class="btn btn-circle"><img src="img/onibus-icon.png"></button></div>
-            <div><button id="btn-barco" type="button" class="btn btn-circle"><img src="img/barco-icon.png"></button></div>
-            <div><button id="btn-bike" type="button" class="btn btn-circle"><img src="img/bike-icon.png"></button></div>
+            <div><button id="pe" type="button" class="btn btn-circle" ><img src="img/pessoa-icon.png"></button></div>
+            <div><button id="onibus" type="button" class="btn btn-circle"><img src="img/onibus-icon.png"></button></div>
+            <div><button id="barco" type="button" class="btn btn-circle"><img src="img/barco-icon.png"></button></div>
+            <div><button id="bicicleta" type="button" class="btn btn-circle"><img src="img/bike-icon.png"></button></div>
 
         </div>
 

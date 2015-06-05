@@ -9,6 +9,7 @@ $(document).ready(function(){
         $('.search').toggleClass('expanded');
     });
 
+    // Events for the tour buttons
     $('.btn').click(function(){
 
         $(this).toggleClass("active");
@@ -19,14 +20,19 @@ $(document).ready(function(){
             }
         }
 
+        // Building modal...
         if(this.classList.contains("active")){
             // Show dialog
             $("#dialog").dialog({modal: true, 
-                                 height: 200,
-                                 width: 300 
+                                 height: 500,
+                                 width: 300,
+                                 open: function() {
+                                     $('.ui-widget-overlay').bind('click', function() {
+                                         $('#dialog').dialog('close');
+                                     })
+                                 }
                                 });
 
-            
             document.getElementById('dialog').innerHTML = '';
             var list = document.createElement('ul');
             for (i = 0; i<routes.length; i++){
@@ -36,7 +42,18 @@ $(document).ready(function(){
                     var item = document.createElement('li');
 
                     // Set its contents:
-                    item.appendChild(document.createTextNode(routes[i].nome));
+                    $(item).append(
+                        $('<a>').attr('href','#').append(
+                            document.createTextNode(routes[i].nome)
+                        )
+                    );
+                    
+                    $(item).click(function(){
+                        console.log($(item).text());
+                        findTour($(item).text());
+                        
+                        $('#dialog').dialog( "close" );
+                    });
 
                     // Add it to the list:
                     list.appendChild(item);
@@ -53,25 +70,27 @@ $(document).ready(function(){
         source: roteirosNomes
     });
 
+    
     document.getElementById("search-box").addEventListener( "keydown", function( e ) {
         var keyCode = e.keyCode || e.which;
         if ( keyCode === 13 ) {
             // Find the route object from the search
-            var input = document.getElementById('search-box').value;
-            for (key in routes) {
-                if (routes[key].nome == input) {
-                    document.getElementById("roteiro").innerHTML = routes[key].nome;
-                    setMarkers(routes[key]);
-                } else {
-                    console.log("Rota não encontrada");
-                }
-            }
+            findTour(document.getElementById('search-box').value);
         }
     }, false);
 
 });
 
-
+function findTour(name) {
+    for (key in routes) {
+        if (routes[key].nome == name) {
+            document.getElementById("roteiro").innerHTML = routes[key].nome;
+            setMarkers(routes[key]);
+        } else {
+            console.log("Rota não encontrada");
+        }
+    }
+}
 
 
 function setMarkers(route) {
